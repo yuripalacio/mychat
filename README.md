@@ -46,7 +46,7 @@ Todas essas mensagens são enviadas em tempo real.
 
 # O que é Websocket?
 
-De maneira resumida,é um **protocolo** que torna possível a comunicação bidirecional entre um navegador e um servidor criando um "tunel" para transportar de forma contínua informações entre o navegador e um servidor.
+De maneira resumida,é um **protocolo** que torna possível a comunicação bidirecional entre um navegador e um servidor criando um "túnel" para transportar de forma contínua informações entre o navegador e um servidor.
 O **websocket** faz parte das especificações do HTML5 e é suportado pelas últimas versões dos navegadores.
 
 Além de poderoso, este protocolo possui um conceito simples em sua arquitetura. É baseado em **eventos** onde o navegador e o servidor irão emitir eventos um para o outro.
