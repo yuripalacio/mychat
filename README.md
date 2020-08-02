@@ -26,10 +26,11 @@
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#websocket">O que é Websocket</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#referencias">Referências</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#licença">Licença</a>
 </p>
 
-# :notebook: Sobre
+# :notebook:Sobre
 
 O projeto **MyChat** foi desenvolvido com objetivo de estudar e entender as funcionalidades de uma aplicação em tempo real utilizando websocket.
 
@@ -65,7 +66,7 @@ O uso de **websocket** é recomendado em aplicações que demandam comunicação
 - [Nodemon](https://nodemon.io/)
 - [Qs CDN](https://github.com/ljharb/qs)
 
-# :repeat: Referências
+# :repeat:Referências
 
 <p>
 https://www.youtube.com/watch?v=T4unNrKogSA
