@@ -33,9 +33,10 @@
 
 O projeto **MyChat** foi desenvolvido com objetivo de estudar e entender as funcionalidades de uma aplicação em tempo real utilizando websocket.
 
-Nessa aplicadação temos um chat divididos por sala onde pode-se criar usuário e definir em quais salas deseja participar.
+Nessa aplicação temos um chat divididos por sala onde pode-se criar usuário e definir em quais salas deseja participar.
 Sempre que um usuário entrar e sair de uma sala é enviado mensagens automáticas por um "Bot" e possibilita a conversa entre os usuários.
 Todas essas mensagens são enviadas em tempo real.
+
 <h1 align="center">
   <img alt="signIn" title="#signIn" src=".github/signIn.png">
 
@@ -45,25 +46,27 @@ Todas essas mensagens são enviadas em tempo real.
 # 🤔 O que é Websocket?
 
 De maneira resumida,é um **protocolo** que torna possível a comunicação bidirecional entre um navegador e um servidor criando um "tunel" para transportar de forma contínua informações entre o navegador e um servidor.
-O **websocket** faz parte das especificações do HTML5 e é suportado pelas ultimas verses dos navegadores.
+O **websocket** faz parte das especificações do HTML5 e é suportado pelas últimas versões dos navegadores.
 
-Além de podereso, esse protocolo possui um conceito simples em sua arquitetura. É baseado em **eventos** onde o navegador e o servidor irão emitir eventos um para o outro.
+Além de poderoso, este protocolo possui um conceito simples em sua arquitetura. É baseado em **eventos** onde o navegador e o servidor irão emitir eventos um para o outro.
 
 É realizada uma conexão persistente entre o navegador e o servidor para um dos usuários no momento em que entra no chat.
-Nessa situação, quando envia-se uma mensagem ao servidor ela é entregue ao "destinatário" sem a necessidade do navegador requisitá-la de forma explicita.
+Nessa situação, quando enviasse uma mensagem ao servidor ela é entregue ao "destinatário" sem a necessidade do navegador requisitá-la de forma explícita.
 
-O uso de **websocket** é recomendado em aplicaçes que demandam comunicação bilateral em tempo real (como  um chat), caso não seja esse o caso é melhor utilizar o HTTP.
+O uso de **websocket** é recomendado em aplicações que demandam comunicação bilateral em tempo real (como um chat), caso não seja esse o caso é melhor utilizar o HTTP.
 
 # 🛠Tecnologias
-* [Node.JS](https://nodejs.org/en/docs/)
-* [Socket.IO](https://www.typescriptlang.org/)
-* [Vanilla.JS](http://vanilla-js.com/)
 
-* [Moment](https://momentjs.com/)
-* [Nodemon](https://nodemon.io/)
-* [Qs CDN](https://github.com/ljharb/qs)
+- [Node.JS](https://nodejs.org/en/docs/)
+- [Socket.IO](https://www.typescriptlang.org/)
+- [Vanilla.JS](http://vanilla-js.com/)
 
-# :repeat: Referencias
+- [Moment](https://momentjs.com/)
+- [Nodemon](https://nodemon.io/)
+- [Qs CDN](https://github.com/ljharb/qs)
+
+# :repeat: Referências
+
 <p>
 https://www.youtube.com/watch?v=T4unNrKogSA
 <p>
