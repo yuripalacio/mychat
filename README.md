@@ -75,7 +75,7 @@ https://www.youtube.com/watch?v=jD7FnbI76Hg&t=67s
 
 ## Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/nathaliacristina20/gorestaurant/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/yuripalacio/mychat/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 <hr />
 
